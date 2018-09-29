@@ -26,6 +26,8 @@
     <modules>
         <module>server-9001</module>
         <module>discovery-8001</module>
+        <module>discovery-8002</module>
+        <module>consumer-7001</module>
     </modules>
 
     <dependencyManagement>
