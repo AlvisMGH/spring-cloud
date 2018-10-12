@@ -17,7 +17,7 @@ public class OrderApi {
     private SayService sayService;
 
     @RequestMapping("/hello")
-    public String hello(){
+    public String hello() {
         return "下单成功" + testService.hello() + ">>>" + sayService.say();
     }
 

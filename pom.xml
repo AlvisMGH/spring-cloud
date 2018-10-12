@@ -28,6 +28,7 @@
         <module>discovery-8001</module>
         <module>discovery-8002</module>
         <module>consumer-7001</module>
+        <module>zuul-6001</module>
     </modules>
 
     <dependencyManagement>

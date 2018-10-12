@@ -10,10 +10,8 @@
         <module name="discovery-8001" />
         <module name="discovery-8002" />
         <module name="server-9001" />
+        <module name="zuul-6001" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="discovery-8001 (1)" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
